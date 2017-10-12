@@ -1,1 +1,1 @@
-scrapinghub
+scrapy
